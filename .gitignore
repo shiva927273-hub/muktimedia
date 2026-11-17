@@ -1,0 +1,15 @@
+# Environments and Keys
+config/keys.json
+.env
+
+# Python artifacts
+__pycache__/
+*.pyc
+venv/
+
+# Storage
+storage/uploads/
+storage/clips/
+storage/temp/
+storage/voices/
+
